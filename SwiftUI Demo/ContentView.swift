@@ -11,8 +11,11 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Text("Muhammed Asif").font(.title).foregroundColor(.blue)
-            Text("iOS Developer").font(.subheadline).italic()
+            ProfileImageView()
+            VStack(alignment: .center) {
+                Text("Muhammed Asif").font(.headline).foregroundColor(.blue)
+                Text("iOS Developer").font(.subheadline).italic()
+            }
         }
     }
 }
