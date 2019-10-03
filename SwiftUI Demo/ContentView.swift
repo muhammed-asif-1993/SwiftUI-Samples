@@ -11,8 +11,12 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            
+            TopView()
+                .edgesIgnoringSafeArea(.top)
+                .frame(height: 200)
             ProfileImageView()
+                .offset(y: -100)
+                .padding(.bottom, -100)
             VStack(alignment: .center) {
                 Text("Muhammed Asif").font(.headline).foregroundColor(.blue)
                 HStack(alignment: .top, spacing: 8) {
@@ -20,6 +24,7 @@ struct ContentView: View {
                     Text("Fingent Global Solutions").font(.subheadline)
                 }
             }
+            Spacer()
         }
     }
 }
