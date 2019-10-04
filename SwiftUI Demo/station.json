@@ -1,0 +1,61 @@
+[{
+    "station_id": "CBNRadio2",
+    "station_name": "Praise",
+    "station_description": "You can worship along with your favorite contemporary praise and worship songs from last Sunday's service, with popular Christian praise artists like Kari Jobe, Hillsong United, Jesus Culture, Paul Baloche, Matt Maher, Passion, Gateway Worship, Women of Faith, and Vineyard Worship Music.",
+    "station_16x9_image": "http:\/\/www.cbn.com\/tv\/app\/radioapp\/praise.jpg"
+}, {
+    "station_id": "CBNRadio5",
+    "station_name": "Cross Country",
+    "station_description": "Where Country Meets The Cross. Christian Country Music from your favorite artists.",
+    "station_16x9_image": "http:\/\/www.cbn.com\/tv\/app\/radioapp\/cross-country.jpg"
+}, {
+    "station_id": "CBNRadio1",
+    "station_name": "Contemporary",
+    "station_description": "This online station is packed with latest Christian Top 40 radio songs from artists like Mercy Me, Francesca Battistelli, Newsboys, Meredith Andrews, Casting Crowns, Tenth Avenue North, All Sons and Daughters and Love & The Outcome. Make CBN Radio your home for Today's best Christian music!",
+    "station_16x9_image": "http:\/\/www.cbn.com\/tv\/app\/radioapp\/contemporary.jpg"
+}, {
+    "station_id": "CBNRadio9",
+    "station_name": "Selah",
+    "station_description": "CBN Selah, Simply Music- Christian instrumental favorites that include Piano, Strings, Orchestra, Soft Jazz, Soaking Music, and light Modern worship songs.",
+    "station_16x9_image": "http:\/\/www.cbn.com\/tv\/app\/radioapp\/selah.jpg"
+}, {
+    "station_id": "CBNRadio3",
+    "station_name": "Gospel",
+    "station_description": "Find the best Black Gospel hits from yesterday and today on CBN Gospel. Start giving Him glory while singing along with well-known urban gospel, urban praise, R&B gospel, and Christian Hip Hop artists.  Get ready to be lifted up with CBN Gospel Radio!",
+    "station_16x9_image": "http:\/\/www.cbn.com\/tv\/app\/radioapp\/gospel.jpg"
+}, {
+    "station_id": "CBNRadio6",
+    "station_name": "Christmas",
+    "station_description": "It's never too early to start celebrating! You'll hear your favorite artists like Frank Sinatra, Brenda Lee, Nat King Cole, the Trans-Siberian Orchestra, Amy Grant, Bebe and Cece Winans, Kenny Rogers, Mannheim Steamroller, Mercy Me, Faith Hill, Josh Groban, and Natalie Grant.",
+    "station_16x9_image": "http:\/\/www.cbn.com\/tv\/app\/radioapp\/christams-thumb-none.jpg"
+}, {
+    "station_id": "CBNRadio8",
+    "station_name": "Country Christmas",
+    "station_description": "Celebrate this Christmas season with your favorite Christian and Contemporary Country Christmas music as the Seasonal sounds of your favorite Country artists like Dolly Parton, Blake Shelton, Lee Ann Womack, and Vince Gill fill your home this year.",
+    "station_16x9_image": "http:\/\/www.cbn.com\/tv\/app\/radioapp\/country-christmas-thumb-none.jpg"
+}, {
+    "station_id": "CBNRadio7",
+    "station_name": "Fiesta Hoy",
+    "station_description": "Radio Fiesta Hoy is always celebrating. Brighten your day with the best in Latino Christian music! ",
+    "station_16x9_image": "http:\/\/www.cbn.com\/tv\/app\/radioapp\/fiesta-hoy.jpg"
+}, {
+    "station_id": "CBNRadio4",
+    "station_name": "Superbook",
+    "station_description": "For upbeat music that encourages kids in their walk with Christ, listen to Superbook Radio! You'll hear the best new Christian music artists like Toby Mac, Lecrae, Francesca Battistelli, Kerrie Roberts, Kutless, Group One Crew, Family Force 5, and Jamie Grace on this free, online radio station.",
+    "station_16x9_image": "http:\/\/www.cbn.com\/tv\/app\/radioapp\/superbook.jpg"
+}, {
+    "station_id": "News",
+    "station_name": "News",
+    "station_description": "CBN News Radio brings you the latest national and international news 24 hours a day from a team of journalists dedicated to timely, in-depth, truthful reporting and analysis from a Christian perspective.",
+    "station_16x9_image": "http:\/\/www.cbn.com\/tv\/app\/radioapp\/news.jpg"
+}, {
+    "station_id": "SouthernGospelRadio",
+    "station_name": "Southern Gospel",
+    "station_description": "Come Home to the All-New CBN Southern Gospel station! You\u2019ll hear a sweet southern blend of bluegrass, classic gospel, and southern gospel favorites!",
+    "station_16x9_image": "http:\/\/www.cbn.com\/tv\/app\/radioapp\/southern-gospel.jpg"
+}, {
+    "station_id": "Classic-Christian",
+    "station_name": "Classic Christian",
+    "station_description": "Come Home to the All-New Classic Christian station! You\u2019ll hear a sweet southern blend of bluegrass, classic gospel, and southern gospel favorites!",
+    "station_16x9_image": "http:\/\/www.cbn.com\/tv\/app\/radioapp\/CBN-radio-Classic_thumb.png"
+}]
