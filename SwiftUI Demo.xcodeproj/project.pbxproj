@@ -15,6 +15,7 @@
 		67EFAB692343A8FB00850A74 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67EFAB682343A8FB00850A74 /* Preview Assets.xcassets */; };
 		67EFAB6C2343A8FB00850A74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 67EFAB6A2343A8FB00850A74 /* LaunchScreen.storyboard */; };
 		E0A05ED7245436D1003621DE /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0A05ED6245436D1003621DE /* ProfileView.swift */; };
+		E0A05ED9245442B0003621DE /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0A05ED8245442B0003621DE /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		67EFAB6B2343A8FB00850A74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		67EFAB6D2343A8FB00850A74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E0A05ED6245436D1003621DE /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		E0A05ED8245442B0003621DE /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				67EFAB5E2343A8FA00850A74 /* SceneDelegate.swift */,
 				67EFAB632343A8FA00850A74 /* ContentView.swift */,
 				E0A05ED6245436D1003621DE /* ProfileView.swift */,
+				E0A05ED8245442B0003621DE /* MapView.swift */,
 				67EFAB652343A8FB00850A74 /* Assets.xcassets */,
 				67EFAB6A2343A8FB00850A74 /* LaunchScreen.storyboard */,
 				67EFAB6D2343A8FB00850A74 /* Info.plist */,
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				67EFAB622343A8FA00850A74 /* SwiftUI_Demo.xcdatamodeld in Sources */,
+				E0A05ED9245442B0003621DE /* MapView.swift in Sources */,
 				67EFAB5D2343A8FA00850A74 /* AppDelegate.swift in Sources */,
 				E0A05ED7245436D1003621DE /* ProfileView.swift in Sources */,
 				67EFAB642343A8FA00850A74 /* ContentView.swift in Sources */,

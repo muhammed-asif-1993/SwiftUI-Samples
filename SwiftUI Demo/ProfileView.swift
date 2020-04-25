@@ -11,10 +11,10 @@ import SwiftUI
 struct ProfileView: View {
     var body: some View {
         Image("avtar")
-            .frame(width: 300.0, height: 300.0)
+            .frame(width: 200, height: 200)
             .clipShape(Circle())
             .overlay(Circle().stroke(Color.white, lineWidth: 3))
-            .shadow(radius: 9)
+            .shadow(radius: 10)
     }
 }
 
