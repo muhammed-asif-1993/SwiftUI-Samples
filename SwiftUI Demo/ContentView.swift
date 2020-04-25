@@ -10,7 +10,24 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello SwiftUI!")
+        VStack(alignment: .leading) {
+            Text("Muhammed Asif")
+                .font(.title)
+                .fontWeight(.medium)
+                .foregroundColor(Color.blue)
+            HStack {
+                Text(/*@START_MENU_TOKEN@*/"iOS Developer"/*@END_MENU_TOKEN@*/)
+                    .font(.subheadline)
+                    .fontWeight(.regular)
+                    .foregroundColor(Color.black)
+                Spacer()
+                Text(/*@START_MENU_TOKEN@*/"Fingent"/*@END_MENU_TOKEN@*/)
+                    .font(.subheadline)
+                    .fontWeight(.regular)
+                    .foregroundColor(Color.black)
+            }
+        }
+        .padding()
     }
 }
 
